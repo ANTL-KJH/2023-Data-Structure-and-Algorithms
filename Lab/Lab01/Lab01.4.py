@@ -1,7 +1,7 @@
 """
 * Project Name : Data Structure and Algorithms Lab01.4
 * Program Description :
-* -
+* - sum of reciprocal
 * ==========================================================================
 * Program History
 * ==========================================================================
